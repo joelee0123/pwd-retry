@@ -7,5 +7,5 @@ while i > 0:
 		break # 跳出迴圈
 	else:
 		print('密碼錯誤')
-		if i > 0
+		if i > 0:
 			print('你還有', i,'機會')
